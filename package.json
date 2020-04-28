@@ -1,5 +1,5 @@
 {
-  "name": "CRUD",
+  "name": "crud",
   "version": "1.0.0",
   "description": "CRUD lib for access databases :)",
   "main": "index.js",
@@ -12,9 +12,9 @@
   },
   "keywords": [],
   "author": "dnetto <me@dnetto.dev>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/primland/CRUD/issues"
   },
-  "homepage": "https://github.com/primland/CRUD#readme"
+  "homepage": "https://primland.github.io/CRUD"
 }
